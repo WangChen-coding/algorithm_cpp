@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Code02_CoinWaysEveryPaperDi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Code03_CoinsWayNoLimit", "..\..\class21\Code03_CoinsWayNoLimit\Code03_CoinsWayNoLimit.vcxproj", "{7A21C910-4226-476A-BABA-126E16B45AA5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Code04_CoinsWaySameValueSamePapper", "..\..\class21\Code04_CoinsWaySameValueSamePapper\Code04_CoinsWaySameValueSamePapper.vcxproj", "{4ACFC39B-36DE-4678-A82A-B05D1C95BA71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -139,6 +141,14 @@ Global
 		{7A21C910-4226-476A-BABA-126E16B45AA5}.Release|x64.Build.0 = Release|x64
 		{7A21C910-4226-476A-BABA-126E16B45AA5}.Release|x86.ActiveCfg = Release|Win32
 		{7A21C910-4226-476A-BABA-126E16B45AA5}.Release|x86.Build.0 = Release|Win32
+		{4ACFC39B-36DE-4678-A82A-B05D1C95BA71}.Debug|x64.ActiveCfg = Debug|x64
+		{4ACFC39B-36DE-4678-A82A-B05D1C95BA71}.Debug|x64.Build.0 = Debug|x64
+		{4ACFC39B-36DE-4678-A82A-B05D1C95BA71}.Debug|x86.ActiveCfg = Debug|Win32
+		{4ACFC39B-36DE-4678-A82A-B05D1C95BA71}.Debug|x86.Build.0 = Debug|Win32
+		{4ACFC39B-36DE-4678-A82A-B05D1C95BA71}.Release|x64.ActiveCfg = Release|x64
+		{4ACFC39B-36DE-4678-A82A-B05D1C95BA71}.Release|x64.Build.0 = Release|x64
+		{4ACFC39B-36DE-4678-A82A-B05D1C95BA71}.Release|x86.ActiveCfg = Release|Win32
+		{4ACFC39B-36DE-4678-A82A-B05D1C95BA71}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -156,6 +166,7 @@ Global
 		{1EEF8A96-C9D4-4EFE-AE72-032B2F031582} = {A8EF213D-D319-4067-9144-C550EC6BFB5A}
 		{8D05968B-3372-4B53-96F9-A29D2E1ED924} = {A8EF213D-D319-4067-9144-C550EC6BFB5A}
 		{7A21C910-4226-476A-BABA-126E16B45AA5} = {A8EF213D-D319-4067-9144-C550EC6BFB5A}
+		{4ACFC39B-36DE-4678-A82A-B05D1C95BA71} = {A8EF213D-D319-4067-9144-C550EC6BFB5A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {000CB290-ED06-4618-AA86-D7A4A26F7EF4}
