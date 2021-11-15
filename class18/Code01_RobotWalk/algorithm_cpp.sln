@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Code01_KillMonster", "..\..
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Code02_MinCoinsNoLimit", "..\..\class22\Code02_MinCoinsNoLimit\Code02_MinCoinsNoLimit.vcxproj", "{8E63E710-E7C4-4093-B8A0-64CE1BCB2050}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Code03_SplitNumber", "..\..\class22\Code03_SplitNumber\Code03_SplitNumber.vcxproj", "{ED909064-1216-4C9A-80F8-208E25D7DA39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{8E63E710-E7C4-4093-B8A0-64CE1BCB2050}.Release|x64.Build.0 = Release|x64
 		{8E63E710-E7C4-4093-B8A0-64CE1BCB2050}.Release|x86.ActiveCfg = Release|Win32
 		{8E63E710-E7C4-4093-B8A0-64CE1BCB2050}.Release|x86.Build.0 = Release|Win32
+		{ED909064-1216-4C9A-80F8-208E25D7DA39}.Debug|x64.ActiveCfg = Debug|x64
+		{ED909064-1216-4C9A-80F8-208E25D7DA39}.Debug|x64.Build.0 = Debug|x64
+		{ED909064-1216-4C9A-80F8-208E25D7DA39}.Debug|x86.ActiveCfg = Debug|Win32
+		{ED909064-1216-4C9A-80F8-208E25D7DA39}.Debug|x86.Build.0 = Debug|Win32
+		{ED909064-1216-4C9A-80F8-208E25D7DA39}.Release|x64.ActiveCfg = Release|x64
+		{ED909064-1216-4C9A-80F8-208E25D7DA39}.Release|x64.Build.0 = Release|x64
+		{ED909064-1216-4C9A-80F8-208E25D7DA39}.Release|x86.ActiveCfg = Release|Win32
+		{ED909064-1216-4C9A-80F8-208E25D7DA39}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -202,6 +212,7 @@ Global
 		{D037E81B-B9FC-4BA9-92BB-54F5B843DBE3} = {A8EF213D-D319-4067-9144-C550EC6BFB5A}
 		{7B241EFF-CACE-47EE-9242-6015F93C5708} = {8FCD226B-1EB9-4CAE-A6C6-D9ECC7E8D601}
 		{8E63E710-E7C4-4093-B8A0-64CE1BCB2050} = {8FCD226B-1EB9-4CAE-A6C6-D9ECC7E8D601}
+		{ED909064-1216-4C9A-80F8-208E25D7DA39} = {8FCD226B-1EB9-4CAE-A6C6-D9ECC7E8D601}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {000CB290-ED06-4618-AA86-D7A4A26F7EF4}
