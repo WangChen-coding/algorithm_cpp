@@ -1,0 +1,5 @@
+﻿  Code04_CoinsWaySameValueSamePapper.cpp
+H:\codeing\algorithm_cpp\class21\Code04_CoinsWaySameValueSamePapper\Code04_CoinsWaySameValueSamePapper.cpp(26,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\codeing\algorithm_cpp\class21\Code04_CoinsWaySameValueSamePapper\Code04_CoinsWaySameValueSamePapper.cpp(46,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\codeing\algorithm_cpp\class21\Code04_CoinsWaySameValueSamePapper\Code04_CoinsWaySameValueSamePapper.cpp(76,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Code04_CoinsWaySameValueSamePapper.vcxproj -> H:\codeing\algorithm_cpp\x64\Debug\Code04_CoinsWaySameValueSamePapper.exe

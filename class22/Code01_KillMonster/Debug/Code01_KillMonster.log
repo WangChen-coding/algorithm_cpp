@@ -1,11 +1,1 @@
-﻿  Code01_KillMonster.cpp
-H:\codeing\algorithm_cpp\class22\Code01_KillMonster\Code01_KillMonster.cpp(10,13): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
-H:\codeing\algorithm_cpp\class22\Code01_KillMonster\Code01_KillMonster.cpp(22,11): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
-H:\codeing\algorithm_cpp\class22\Code01_KillMonster\Code01_KillMonster.cpp(36,20): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
-          with
-          [
-              _Ty=int
-          ]
-H:\codeing\algorithm_cpp\class22\Code01_KillMonster\Code01_KillMonster.cpp(44,34): warning C4244: “+=”: 从“double”转换到“long”，可能丢失数据
-H:\codeing\algorithm_cpp\class22\Code01_KillMonster\Code01_KillMonster.cpp(50,11): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
-  Code01_KillMonster.vcxproj -> H:\codeing\algorithm_cpp\class18\Code01_RobotWalk\Debug\Code01_KillMonster.exe
+﻿

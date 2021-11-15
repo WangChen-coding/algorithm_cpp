@@ -1,0 +1,4 @@
+﻿  Code02_ConvertToLetterString.cpp
+H:\codeing\algorithm_cpp\class19\Code02_ConvertToLetterString\Code02_ConvertToLetterString.cpp(25,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\codeing\algorithm_cpp\class19\Code02_ConvertToLetterString\Code02_ConvertToLetterString.cpp(43,10): warning C4309: “初始化”: 截断常量值
+  Code02_ConvertToLetterString.vcxproj -> H:\codeing\algorithm_cpp\x64\Debug\Code02_ConvertToLetterString.exe

@@ -1,0 +1,6 @@
+﻿  Code02_CardsInLine.cpp
+H:\codeing\algorithm_cpp\class18\Code02_CardsInLine\Code02_CardsInLine.cpp(28,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\codeing\algorithm_cpp\class18\Code02_CardsInLine\Code02_CardsInLine.cpp(74,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\codeing\algorithm_cpp\class18\Code02_CardsInLine\Code02_CardsInLine.cpp(75,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\codeing\algorithm_cpp\class18\Code02_CardsInLine\Code02_CardsInLine.cpp(84,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Code02_CardsInLine.vcxproj -> H:\codeing\algorithm_cpp\x64\Debug\Code02_CardsInLine.exe

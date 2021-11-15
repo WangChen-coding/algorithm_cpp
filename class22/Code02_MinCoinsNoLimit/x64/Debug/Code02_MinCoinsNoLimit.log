@@ -1,0 +1,4 @@
+﻿  Code02_MinCoinsNoLimit.cpp
+H:\codeing\algorithm_cpp\class22\Code02_MinCoinsNoLimit\Code02_MinCoinsNoLimit.cpp(26,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\codeing\algorithm_cpp\class22\Code02_MinCoinsNoLimit\Code02_MinCoinsNoLimit.cpp(50,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Code02_MinCoinsNoLimit.vcxproj -> H:\codeing\algorithm_cpp\x64\Debug\Code02_MinCoinsNoLimit.exe

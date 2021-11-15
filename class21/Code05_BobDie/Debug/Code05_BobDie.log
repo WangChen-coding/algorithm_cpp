@@ -1,11 +1,1 @@
-﻿  Code05_BobDie.cpp
-H:\codeing\algorithm_cpp\class21\Code05_BobDie\Code05_BobDie.cpp(15,10): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
-H:\codeing\algorithm_cpp\class21\Code05_BobDie\Code05_BobDie.cpp(16,12): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
-H:\codeing\algorithm_cpp\class21\Code05_BobDie\Code05_BobDie.cpp(17,12): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
-H:\codeing\algorithm_cpp\class21\Code05_BobDie\Code05_BobDie.cpp(18,13): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
-H:\codeing\algorithm_cpp\class21\Code05_BobDie\Code05_BobDie.cpp(30,22): warning C4244: “return”: 从“_Ty”转换到“int”，可能丢失数据
-          with
-          [
-              _Ty=double
-          ]
-  Code05_BobDie.vcxproj -> H:\codeing\algorithm_cpp\class18\Code01_RobotWalk\Debug\Code05_BobDie.exe
+﻿

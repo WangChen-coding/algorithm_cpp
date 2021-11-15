@@ -1,0 +1,3 @@
+﻿  Code01_Knapsack.cpp
+H:\codeing\algorithm_cpp\class19\Code01_Knapsack\Code01_Knapsack.cpp(27,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Code01_Knapsack.vcxproj -> H:\codeing\algorithm_cpp\x64\Debug\Code01_Knapsack.exe

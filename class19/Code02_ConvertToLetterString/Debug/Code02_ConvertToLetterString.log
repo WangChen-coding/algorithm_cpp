@@ -1,5 +1,1 @@
-﻿  Code02_ConvertToLetterString.cpp
-H:\codeing\algorithm_cpp\class19\Code02_ConvertToLetterString\Code02_ConvertToLetterString.cpp(16,19): warning C4018: “<”: 有符号/无符号不匹配
-H:\codeing\algorithm_cpp\class19\Code02_ConvertToLetterString\Code02_ConvertToLetterString.cpp(31,18): warning C4018: “<”: 有符号/无符号不匹配
-H:\codeing\algorithm_cpp\class19\Code02_ConvertToLetterString\Code02_ConvertToLetterString.cpp(43,10): warning C4309: “初始化”: 截断常量值
-  Code02_ConvertToLetterString.vcxproj -> H:\codeing\algorithm_cpp\class18\Code01_RobotWalk\Debug\Code02_ConvertToLetterString.exe
+﻿
