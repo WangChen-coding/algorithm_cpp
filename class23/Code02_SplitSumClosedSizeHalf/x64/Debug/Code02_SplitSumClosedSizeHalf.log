@@ -1,0 +1,6 @@
+﻿  Code02_SplitSumClosedSizeHalf.cpp
+H:\codeing\algorithm_cpp\class23\Code02_SplitSumClosedSizeHalf\Code02_SplitSumClosedSizeHalf.cpp(30,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+H:\codeing\algorithm_cpp\class23\Code02_SplitSumClosedSizeHalf\Code02_SplitSumClosedSizeHalf.cpp(33,59): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+H:\codeing\algorithm_cpp\class23\Code02_SplitSumClosedSizeHalf\Code02_SplitSumClosedSizeHalf.cpp(33,105): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+H:\codeing\algorithm_cpp\class23\Code02_SplitSumClosedSizeHalf\Code02_SplitSumClosedSizeHalf.cpp(45,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Code02_SplitSumClosedSizeHalf.vcxproj -> H:\codeing\algorithm_cpp\x64\Debug\Code02_SplitSumClosedSizeHalf.exe

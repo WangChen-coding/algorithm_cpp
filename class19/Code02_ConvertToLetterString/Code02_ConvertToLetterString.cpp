@@ -36,6 +36,22 @@ int way2(string& str) {
 	}
 	return dp[0];
 }
+int testprocess(string& str, int index) {
+	if (index == str.size()) {
+		return 1;
+	}
+	if (str[index] == '0') {
+		return 0;
+	}
+	int p1 = testprocess(str, index + 1);
+	if ((index + 1) < str.size() && ((str[index] - 'a') * 10 + str[index + 1] - 'a') < 27) {
+		p1 += testprocess(str, index + 2);
+	}
+	return p1;
+}
+int testways(string& str) {
+	return process(str, 0);
+}
 
 
 int main()
@@ -50,11 +66,13 @@ int main()
 		ss >> str;
 		int a= way1(str);
 		int b= way2(str);
-		if (a != b) {
+		int c = testways(str);
+	//	if (a != b) {
 			cout << str << endl;
 			cout << a << endl;
 			cout << b << endl;
-		}
+			cout << c << endl;
+//		}
 		
 	}
 

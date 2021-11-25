@@ -51,6 +51,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "class23", "class23", "{C32F
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Code01_SplitSumClosed", "class23\Code01_SplitSumClosed\Code01_SplitSumClosed.vcxproj", "{BFA18330-42BD-4A66-ABFB-78B9ED4639FB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Code02_SplitSumClosedSizeHalf", "class23\Code02_SplitSumClosedSizeHalf\Code02_SplitSumClosedSizeHalf.vcxproj", "{6C862010-CD81-440C-A617-8DBBB5E069BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -203,6 +205,14 @@ Global
 		{BFA18330-42BD-4A66-ABFB-78B9ED4639FB}.Release|x64.Build.0 = Release|x64
 		{BFA18330-42BD-4A66-ABFB-78B9ED4639FB}.Release|x86.ActiveCfg = Release|Win32
 		{BFA18330-42BD-4A66-ABFB-78B9ED4639FB}.Release|x86.Build.0 = Release|Win32
+		{6C862010-CD81-440C-A617-8DBBB5E069BB}.Debug|x64.ActiveCfg = Debug|x64
+		{6C862010-CD81-440C-A617-8DBBB5E069BB}.Debug|x64.Build.0 = Debug|x64
+		{6C862010-CD81-440C-A617-8DBBB5E069BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{6C862010-CD81-440C-A617-8DBBB5E069BB}.Debug|x86.Build.0 = Debug|Win32
+		{6C862010-CD81-440C-A617-8DBBB5E069BB}.Release|x64.ActiveCfg = Release|x64
+		{6C862010-CD81-440C-A617-8DBBB5E069BB}.Release|x64.Build.0 = Release|x64
+		{6C862010-CD81-440C-A617-8DBBB5E069BB}.Release|x86.ActiveCfg = Release|Win32
+		{6C862010-CD81-440C-A617-8DBBB5E069BB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -226,6 +236,7 @@ Global
 		{8E63E710-E7C4-4093-B8A0-64CE1BCB2050} = {8FCD226B-1EB9-4CAE-A6C6-D9ECC7E8D601}
 		{ED909064-1216-4C9A-80F8-208E25D7DA39} = {8FCD226B-1EB9-4CAE-A6C6-D9ECC7E8D601}
 		{BFA18330-42BD-4A66-ABFB-78B9ED4639FB} = {C32F7162-A1B3-4842-B35C-A872388DC63B}
+		{6C862010-CD81-440C-A617-8DBBB5E069BB} = {C32F7162-A1B3-4842-B35C-A872388DC63B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {000CB290-ED06-4618-AA86-D7A4A26F7EF4}

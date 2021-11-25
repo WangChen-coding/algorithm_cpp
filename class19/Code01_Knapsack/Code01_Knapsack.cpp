@@ -39,6 +39,30 @@ int way2(vector<int>& weight, vector<int>& value, int bag) {
 	}
 	return dp[0][bag];
 }
+
+//¸´Ï°²âÊÔ´úÂë
+int testprocess(vector<int>& weights, vector<int>& values, int index, int rest) {
+	if (rest < 0) {
+		return -1;
+	}
+	if (index == weights.size()) {
+		return 0;
+	}
+	int p1 = testprocess(weights, values, index + 1, rest);
+	int p2 = 0;
+	int next = testprocess(weights, values, index + 1, rest - weights[index]);
+	if (next != -1) {
+		p2 = values[index] + next;
+	}
+	return max(p1, p2);
+}
+int testways(vector<int>& weights, vector<int>& values, int bag) {
+	return testprocess(weights, values, 0, bag);
+}
+
+
+
+
 int main()
 {
 	vector<int>weight = { 3, 2, 4, 7, 3, 1, 7 };
@@ -46,6 +70,7 @@ int main()
 	int bag = 15;
 	cout << way1(weight, value, 15) << endl;
 	cout << way2(weight, value, 15) << endl;
+	cout << testways(weight, value, 15) << endl;
 	return 0;
 }
 
