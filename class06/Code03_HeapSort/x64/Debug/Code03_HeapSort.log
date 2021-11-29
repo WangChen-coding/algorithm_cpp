@@ -1,0 +1,5 @@
+﻿  Code03_HeapSort.cpp
+H:\codeing\algorithm_cpp\class06\Code03_HeapSort\Code03_HeapSort.cpp(32,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\codeing\algorithm_cpp\class06\Code03_HeapSort\Code03_HeapSort.cpp(33,29): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+H:\codeing\algorithm_cpp\class06\Code03_HeapSort\Code03_HeapSort.cpp(35,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Code03_HeapSort.vcxproj -> H:\codeing\algorithm_cpp\x64\Debug\Code03_HeapSort.exe

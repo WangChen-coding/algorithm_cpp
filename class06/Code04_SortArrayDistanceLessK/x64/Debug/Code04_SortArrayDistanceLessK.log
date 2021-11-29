@@ -1,0 +1,3 @@
+﻿  Code04_SortArrayDistanceLessK.cpp
+H:\codeing\algorithm_cpp\class06\Code04_SortArrayDistanceLessK\Code04_SortArrayDistanceLessK.cpp(15,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Code04_SortArrayDistanceLessK.vcxproj -> H:\codeing\algorithm_cpp\x64\Debug\Code04_SortArrayDistanceLessK.exe
