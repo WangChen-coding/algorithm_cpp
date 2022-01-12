@@ -1,0 +1,3 @@
+﻿  Code01_CoverMax.cpp
+H:\codeing\algorithm_cpp\class07\Code01_CoverMax\Code01_CoverMax.cpp(48,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Code01_CoverMax.vcxproj -> H:\codeing\algorithm_cpp\x64\Debug\Code01_CoverMax.exe
